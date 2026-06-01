@@ -55,7 +55,7 @@ A singular place in which you can import files, lightly edit them, and export th
 |---|:---:|:---:|
 | glTF 2.0 | ✅ | ✅ |
 | OBJ | ✅ | — |
-| Collada (.dae) | ✅ | — |
+| Collada (.dae) | 🐞 | — |
 | FBX | ✅ | — |
 | Blender (.blend) | ✅ | — |
 | PICO CAD | ✅ | — |
@@ -63,13 +63,13 @@ A singular place in which you can import files, lightly edit them, and export th
 | Nintendo NITRO / NSBMD | ✅ | — |
 | STL | ✅ | — |
 | Blockbench | ✅ | — |
-| Penguin | ✅ | 🐞 |
-| BBMOD | 🐞 | 🐞 |
-| SMF | 🐞 | ✅ |
+| Penguin | ✅ | ✅ |
+| BBMOD | ✅ | ✅ |
+| SMF | ✅ | ✅ |
 | Vertex Buffer VBUFF | ✅ | ✅ |
-| DmrVBM | 🐞 | ✅ |
+| DmrVBM | ✅ | ✅ |
 | TMD | ✅ | ✅ |
-| ColMesh | 🐞 | ✅ |
+| ColMesh | — | ✅ |
 | JSON Scene | — | ✅ |
 | KH2FM | 🐞 | — |
 
